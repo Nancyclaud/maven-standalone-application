@@ -8,11 +8,11 @@
 	<packaging>jar</packaging>
 
 	<name>maven-stanalone-application</name>
-	<url>http://Nancyclaud.com</url>
+	<url>http://mylandmarktech.com</url>
 
 	<organization>
-		<name>Nancyclaud</name>
-		<url>http://Nancyclaud.com/</url>
+		<name>Landmark Technologies</name>
+		<url>http://http://mylandmarktech.com/</url>
 	</organization>
 	
 	<description>Maven Standalone Application</description>
